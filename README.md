@@ -1,2 +1,2 @@
-# CLASE-28-SLINGSHOT
-Archivo de Inicio para clase 28. Angry Birds 3
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
